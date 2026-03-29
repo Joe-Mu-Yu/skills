@@ -1,0 +1,11 @@
+{
+  "skill_name": "x-to-markdown-no-login",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "将这篇关于 Anthropic 认证课程的推文转为 Markdown，包含链接的文章正文：https://x.com/GoSailGlobal/status/2035945586751619284",
+      "expected_output": "一个包含 YAML 元数据、推文正文和关联文章清理后正文的 Markdown 文件。",
+      "files": []
+    }
+  ]
+}
